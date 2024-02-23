@@ -1,0 +1,17 @@
+Setup:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+Dev server:
+npm run devstart
+http://localhost:3000/
+
+Mongoose:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
+--> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#genre_model_-_challenge!
+
+Database:
+User: martinsmeder91
+PW: MgwmJrnCWDhWoX29
+
+Connection string:
+mongodb+srv://martinsmeder91:MgwmJrnCWDhWoX29@cluster0.1rnpats.mongodb.net/mini_message_board?retryWrites=true&w=majority
