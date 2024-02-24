@@ -7,7 +7,6 @@ http://localhost:3000/
 
 Mongoose:
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
---> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#genre_model_-_challenge!
 
 Database:
 User: martinsmeder91
