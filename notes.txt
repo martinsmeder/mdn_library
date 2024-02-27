@@ -7,6 +7,20 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoo
 Routes and controllers:
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 
+Displaying library data:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data
+1. ---
+2. ---
+3. ---
+4. Book list page
+5. BookInstance list page
+6. Date formatting using luxon
+7. Author list page and Genre list page challenge
+8. Genre detail page
+9. Book detail page
+10. Author detail page
+11. BookInstance detail page and challenge
+
 Dev server:
 npm run devstart
 http://localhost:3000/
