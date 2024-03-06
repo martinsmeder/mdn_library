@@ -23,7 +23,7 @@ async function main() {
 
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
-app.set("view engine", "ejs");
+app.set("view engine", "pug");
 
 // add middleware libraries to request handling chain
 app.use(logger("dev"));
