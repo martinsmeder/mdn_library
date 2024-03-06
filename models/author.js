@@ -42,5 +42,19 @@ AuthorSchema.virtual("date_of_death_formatted").get(function () {
     : "";
 });
 
+// AuthorSchema.virtual("lifespan").get(function () {
+//   const birthFormatted = this.date_of_birth
+//     ? DateTime.fromJSDate(this.date_of_birth).toLocaleString(DateTime.DATE_MED)
+//     : "";
+
+//   const deathFormatted = this.date_of_death
+//     ? DateTime.fromJSDate(this.date_of_death).toLocaleString(DateTime.DATE_MED)
+//     : "";
+
+//   return this.date_of_death
+//     ? `${birthFormatted} - ${deathFormatted}`
+//     : "Still alive";
+// });
+
 // Export model
 module.exports = mongoose.model("Author", AuthorSchema);
