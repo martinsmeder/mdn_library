@@ -9,17 +9,16 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 
 Displaying library data:
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data
-1. ---
-2. ---
-3. ---
-4. Book list page
-5. BookInstance list page
-6. Date formatting using luxon
-7. Author list page and Genre list page challenge
-8. Genre detail page
-9. Book detail page
-10. Author detail page
-11. BookInstance detail page and challenge
+
+Working with forms:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms
+1. Create Genre form — Defining a page to create Genre objects.
+2. Create Author form — Defining a page to create Author objects.
+3. Create Book form — Defining a page/form to create Book objects.
+4. Create BookInstance form — Defining a page/form to create BookInstance objects.
+5. Delete Author form — Defining a page to delete Author objects.
+6. Update Book form — Defining page to update Book objects.
+7. Challenges - See bottom of main page 
 
 Dev server:
 npm run devstart
